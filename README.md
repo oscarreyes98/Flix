@@ -60,18 +60,18 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-# Project 2 - *Name of App Here*
+# Project 2 - *Flix*
 
-**Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Flix** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can tap a cell to see a detail view (+5pts)
-- [ ] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
+- [x] User can tap a cell to see a detail view (+5pts)
+- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
 
 The following **optional** features are implemented:
 
@@ -95,7 +95,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/oscarreyes98/Flix/blob/master/flixV2GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -105,7 +105,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Oscar Reyes]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
